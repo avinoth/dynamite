@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  description: MyText
+  date: 2015-09-26 22:41:22
+  by: 1
+  owe: false
+
+two:
+  description: MyText
+  date: 2015-09-26 22:41:22
+  by: 1
+  owe: false
